@@ -103,7 +103,7 @@ function asu_userpicker_field_attach_presave($entity_type, $entity) {
 */
 
 /**
- * Implements hook_field_settings_form()
+ * Implements hook_field_widget_settings_form()
  */
 function asu_userpicker_field_widget_settings_form($field, $instance) {
 
